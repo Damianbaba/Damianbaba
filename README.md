@@ -6,15 +6,15 @@
       <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;+I'm+Damian+Baba!;"/>
 </h1>
 
-<h3 align="center">A passionate frontend developer from Poland </h3>
+<h3 align="center">A passionate frontend developer from Poland. </h3>
 
 <br/>
 
 <div align="center">
       
-🔭 I’m currently working on **a new portfolio website**
+🔭 I’m currently working on **a new portfolio website.**
       
-🌱 I’m currently learning  **React.js, MongoDB, Tailwind**
+🌱 I’m currently learning  **React.js, MongoDB, Tailwind.**
 
 💬 Ask me about **Html, Scss, Javascript ... or anything.**
 
@@ -40,6 +40,14 @@
             <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,bootstrap,nodejs,mongodb,"/><br/>
             <img src="https://skillicons.dev/icons?i=git,linux,ubuntu,vscode,webpack,npm,postman,figma"/>
       </a>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+<h2>🐍 My Contributions 🐍</h2>
+      
 </div>
 
 <!--
