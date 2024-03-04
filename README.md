@@ -3,12 +3,24 @@
 
 
 <h1 align="center">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;+I'm+Damian+baba!;+I'm+currently+learning+React.js+:)"/>
+      <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;+I'm+Damian+Baba!;"/>
 </h1>
 
 <h3 align="center">A passionate frontend developer from Poland </h3>
 
 <br/>
+
+<div align="center">
+      
+      🔭 I’m currently working on **a new profile website**
+      
+      🌱 I’m currently learning  **React.js, MongoDB, Tailwind**
+
+      💬 Ask me about **Html, Scss, Javascript ... or anything.**
+
+      
+      
+</div>
 
 <!--
 **Damianbaba/Damianbaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
