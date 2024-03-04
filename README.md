@@ -6,9 +6,9 @@
       <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;+I'm+Damian+baba!;+I'm+currently+learning+React.js+:)"/>
 </h1>
 
-  
-### Hi there 👋
-### I’m currently learning React.js :)
+<h3 align="center">A passionate frontend developer from Poland </h3>
+
+<br/>
 
 <!--
 **Damianbaba/Damianbaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
