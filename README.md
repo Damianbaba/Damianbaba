@@ -22,6 +22,14 @@
       
 </div>
 
+<div align="center">
+            <a href="mailto damianmroczek@yahoo.com">
+                  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank">
+            </a>
+
+      
+</div>
+
 <!--
 **Damianbaba/Damianbaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
