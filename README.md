@@ -1,5 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Damianbaban.visitor-badge&right_text=My%20Page%20Visitors"/>
 
+
+
+<h1 align="center">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;+I'm+Damian+baba!;"/>
+</h1>
+
+  
 ### Hi there 👋
 ### I’m currently learning React.js :)
 
