@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;+I'm+Damian+baba!;"/>
+      <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;+I'm+Damian+baba!;+I'm+currently+learning+React.js+:)"/>
 </h1>
 
   
