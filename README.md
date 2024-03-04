@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;+I'm+Damian+Baba!;"/>
+      <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;+I'm+DamianBaba!;"/>
 </h1>
 
 <h3 align="center">A passionate frontend developer from Poland. </h3>
