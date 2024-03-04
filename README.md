@@ -24,8 +24,10 @@
 
 <div align="center">
             <a href="mailto:damianmroczek@yahoo.com">
-                  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank">
+                  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank" />
             </a>
+
+            <a href="">
 
       
 </div>
