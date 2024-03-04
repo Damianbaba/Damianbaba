@@ -12,13 +12,12 @@
 
 <div align="center">
       
-      🔭 I’m currently working on **a new profile website**
+🔭 I’m currently working on **a new profile website**
       
-      🌱 I’m currently learning  **React.js, MongoDB, Tailwind**
+🌱 I’m currently learning  **React.js, MongoDB, Tailwind**
 
-      💬 Ask me about **Html, Scss, Javascript ... or anything.**
+💬 Ask me about **Html, Scss, Javascript ... or anything.**
 
-      
       
 </div>
 
