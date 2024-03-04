@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Damianbaban.visitor-badge&left_text=My%20Page%20Visitors"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Damianbaban.visitor-badge&right_text=My%20Page%20Visitors"/>
 
 ### Hi there 👋
 ### I’m currently learning React.js :)
