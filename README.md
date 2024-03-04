@@ -18,6 +18,7 @@
 
 💬 Ask me about **Html, Scss, Javascript ... or anything.**
 
+🤔 I’m looking for **new challenges so if you have one - contact me😊.**
       
 </div>
 
