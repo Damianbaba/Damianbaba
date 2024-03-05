@@ -48,7 +48,8 @@
 <div align="center">
 <h2>🐍 My Contributions 🐍</h2>
       <br>
-      <img alt="snake eating my contributions" src>
+      <h3>⛔ Under Construction ⛔</h3>
+<!--       <img alt="snake eating my contributions" src> -->
 </div>
 
 <!--
