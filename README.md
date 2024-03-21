@@ -12,7 +12,7 @@
       
 🔭 I’m currently working on **a new portfolio website.**
       
-🌱 I’m currently learning  **React.js, Wordpress.**
+🌱 I’m currently learning  **React.js, WordPress.**
 
 💬 Ask me about **Html, Scss, Javascript ... or anything.**
 
